@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minggui Lu</title>
-    <link>https://www.minggui.com/</link>
+    <link>http://www.minggui.com/</link>
     <description>Recent content on Minggui Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <atom:link href="https://www.minggui.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.minggui.com/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
